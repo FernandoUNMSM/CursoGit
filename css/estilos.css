@@ -3,9 +3,9 @@ body {
     font-family: "Poppins", serif;
 }
 h1 {
-    font-size: 1em;
-    color: blue;
+    font-size: 3em;
+    color: aqua;
 }
 p {
-    font-size: 4em;
+    font-size: 2em;
 }
