@@ -2,3 +2,10 @@ body {
     text-align: center;
     font-family: "Poppins", serif;
 }
+h1 {
+    font-size: 3em;
+    color: aqua;
+}
+p {
+    font-size: 2em;
+}
